@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\DSAproj.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\eread\\Documents\\GitHub\\DSAproj\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\DSAproj.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
