@@ -1,3 +1,0 @@
-C:/Users/eread/Documents/GitHub/DSAproj/cmake-build-debug/CMakeFiles/DSAproj.dir
-C:/Users/eread/Documents/GitHub/DSAproj/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/eread/Documents/GitHub/DSAproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
